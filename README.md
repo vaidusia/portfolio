@@ -1,2 +1,2 @@
 # portfolio
-portfolio- Vaida Domeikyte
+Udacity project.
